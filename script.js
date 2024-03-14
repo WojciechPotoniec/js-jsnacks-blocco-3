@@ -24,7 +24,7 @@ console.log('Total sum: ', sum);
     Ogni volta che ne crei uno, stampalo.
 */
 
-
+/*
 const userNumber = parseInt(prompt('Inserisci un numero'));
 
 for (let index = 0; index < userNumber; index++) {
@@ -38,3 +38,5 @@ function randomNumberArray(){
     }
     return newArray;
 }
+*/
+
