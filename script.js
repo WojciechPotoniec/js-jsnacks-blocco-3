@@ -5,3 +5,4 @@ Crea un array vuoto e chiedi all'utente un numero da inserire nell'array.
 
 let array = [];
 
+let userinput = parseInt(prompt('Inserisci un numero casuale')); 
