@@ -18,13 +18,11 @@ console.log('numbers:', numbers);
 console.log('Total sum: ', sum);
 */
 
-/* Snack3
+/* Snack2
     Fai inserire un numero, che chiameremo N, all'utente.
     Genera con una funzione N array, ognuno formato da 10 numeri casuali da 1 a 100.
     Ogni volta che ne crei uno, stampalo.
-*/
 
-/*
 const userNumber = parseInt(prompt('Inserisci un numero'));
 
 for (let index = 0; index < userNumber; index++) {
